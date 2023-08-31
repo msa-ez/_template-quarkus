@@ -2,4 +2,4 @@ name: Quarkus
 rating: 5
 imageUrl: https://github.com/msa-ez/template-axon2/assets/130956306/3f712913-b921-47b5-ba93-905e98675fd6
 templateName: quarkus
-description: Quarkus description
+description: Java-based modern and lightweight framework that is well-suited for developing microservices and cloud-native applications with fast startup times and optimized memory usage.
